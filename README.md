@@ -36,8 +36,8 @@ It combines **AI-powered answers**, **PDF summarization**, **resource links**, a
 ---
 ### 📸 Chat Response
 <p align="center">
-  <img src="output_images/image1.png" width="500"/> &nbsp;
-  <img src="output_images/image2.png" width="450"/>
+  <img src="output_images/image1.png" width="450"/> &nbsp;
+  <img src="output_images/image2.png" width="400"/>
 </p>
 
 #### Thank You, This is your TeenBuddy !!
