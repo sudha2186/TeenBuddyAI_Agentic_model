@@ -34,4 +34,6 @@ It combines **AI-powered answers**, **PDF summarization**, **resource links**, a
 | 🔐 **API Key Privacy** | Your Gemini key stays private – not stored |
 
 ---
-
+### 📸 Chat Response
+![TeenBuddyAI Chat Output](output_images/image1.png)
+![TeenBuddyAI Chat Output](output_images/image2.png)
